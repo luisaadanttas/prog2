@@ -5,7 +5,7 @@ import java.util.Arrays;
  * Resgistra as notas de um aluno em determinada disciplina, bem como a quantidade de horas
  * que o aluno dedicou ao estudo dessa disciplina, e também se ele foi aprovado ou não.
  * 
- * @author Maria Luisa Moraes Monteiro Dantas
+ * @author Maria Luisa Dantas
  * */
 
 public class Disciplina {
