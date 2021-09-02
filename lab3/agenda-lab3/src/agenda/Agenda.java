@@ -3,7 +3,7 @@ package agenda;
 /**
  * Uma agenda que mantém uma lista de contatos com posições. Podem existir 100 contatos. 
  * 
- * @author Maria Luisa Moraes Monteiro Dantas- 120210152
+ * @author Maria Luisa Dantas
  *
  */
 public class Agenda {
