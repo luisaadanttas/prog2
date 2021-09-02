@@ -7,7 +7,7 @@ import java.util.Scanner;
 /**
  * Interface com menus texto para manipular uma agenda de contatos.
  * 
- * @author Maria Luisa Moraes Monteiro Dantas- 120210152
+ * @author Maria Luisa Dantas
  *
  */
 public class MainAgenda {
