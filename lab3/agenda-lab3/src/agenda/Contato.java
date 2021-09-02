@@ -3,7 +3,7 @@ package agenda;
 /**
  * Classe com todos os dados de um contato.
  * 
- * @author Maria Luisa Moraes Monteiro Dantas. -120210152.
+ * @author Maria Luisa Dantas. 
  * 
  * */
 public class Contato {
