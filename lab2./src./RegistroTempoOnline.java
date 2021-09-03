@@ -5,7 +5,7 @@ package lab2;
  * Registra o tempo online utilizado por um estudante para o estudo de determinada disciplina e define 
  * se esse tempo atingiu ou não uma meta previamente definida.
  *  
- *  @author Maria Luisa Moraes Monteiro Dantas.
+ *  @author Maria Luisa Dantas.
  */
 public class RegistroTempoOnline {
 	
