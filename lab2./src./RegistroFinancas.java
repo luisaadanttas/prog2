@@ -4,7 +4,7 @@ import java.util.ArrayList;
 /**
  * Registra e controla os gastos de um estudante que possui diferentes fontes de renda.
  * 
- * @author Maria Luisa Moraes Monteiro Dantas.
+ * @author Maria Luisa  Dantas.
  * */
 
 public class RegistroFinancas {
