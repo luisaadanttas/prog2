@@ -6,7 +6,7 @@ import java.util.HashSet;
 /**
  * Classe responsável por operações relacionadas aos alunos.
  * 
- * @author Maria Luisa Moraes Monteiro Dantas.
+ * @author Maria Luisa Dantas.
  * */
 
 public class OperacoesAlunos {
