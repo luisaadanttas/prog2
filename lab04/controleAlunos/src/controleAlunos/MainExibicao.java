@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Classe responsável pela interação com o usuário.
  * 
- * @author Maria Luisa Moraes Monteiro Dantas
+ * @author Maria Luisa Dantas
  *
  */
 
