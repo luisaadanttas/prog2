@@ -3,7 +3,7 @@ package lab2;
 /**
  * Registra e acompanha a rotina de descanso de um aluno.
  * 
- * @author Maria Luisa Moraes Monteiro Dantas.
+ * @author Maria Luisa Dantas.
  */
 public class Descanso {
 	
