@@ -19,3 +19,8 @@
 * Objetos são acessados por meio de variáveis de referência. O que isso significa?
 * Dê exemplos de métodos de acesso (get) e modificadores (set).
 * O que é o método toString() e em quais situações devemos sobrescrevê-lo?
+
+
+#### to fix:
+A hora de estudo da disciplina deve ser cumulativa. 
+se o método aprovado() não for chamado, a média não é calculada e sai vazio no toString() de disciplina, o q n deveria acontecer.
