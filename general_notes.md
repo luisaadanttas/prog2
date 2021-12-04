@@ -1,0 +1,1 @@
+- add a line break after getting an input when the next input is EOF
